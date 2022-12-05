@@ -5,5 +5,5 @@ I enjoy watching mysteroius TV shows but most of my time is passing to code and 
 
 ## what I am currently learning 
 
-# 1.JavaScript
-# 2.Freelancing
+ 1.JavaScript\
+ 2.Freelancing
